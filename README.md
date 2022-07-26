@@ -6,7 +6,7 @@
 
 -----------------
 ### Live Demo
-Live Demo Link(https://gauravpatil97886.github.io/githubprofilefinder.github.io/)
+Live Demo Link(https://gauravpatil97886.github.io/githubprofilefinder/)
 
 -----------------------
 
