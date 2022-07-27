@@ -22,6 +22,10 @@ Live Demo Link(https://gauravpatil97886.github.io/githubprofilefinder/)
 - If you like this project, please give it ⭐️!
 
 --------------------------
+## API limit
+
+-There is a specific rate cap for the Search API. You can send up to 30 requests per minute using Basic Authentication, OAuth, or client ID and secret. The rate limit allows you to send up to 10 requests per minute for unauthenticated requests.
+
 
 <img src="https://github.com/gauravpatil97886/gauravpatil97886/blob/main/gaurav_gif/Line.gif"/>
 
