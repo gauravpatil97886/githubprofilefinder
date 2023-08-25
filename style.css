@@ -3,6 +3,25 @@
 * {
     box-sizing: border-box;
 }
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+.footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.animated-text {
+  animation: fadeIn 1.5s ease-in-out;
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  background-color: #f9f9f9;
+  padding: 5px 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
 .user-profile {
   text-align: center;
 }
